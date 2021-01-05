@@ -1,0 +1,4 @@
+CREATE TABLE category (
+  cat_id INT NOT NULL PRIMARY KEY,
+  cat_name VARCHAR(100) NOT NULL
+);
